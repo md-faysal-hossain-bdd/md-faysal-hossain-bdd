@@ -1,6 +1,20 @@
 <!-- HEADER SECTION -->
 <div align="center">
-  <img src="https://scontent.fdac142-1.fna.fbcdn.net/v/t39.30808-6/669150201_947585977985433_1315785192148469991_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=CI-V0xe6LwAQ7kNvwFhHoCA&_nc_oc=AdqBc-3JC9ovcjD9sYNYJGk18LDmXhC74BGh0cU5MBs29w8vLSSPLUAL9150GxFr1kM&_nc_zt=23&_nc_ht=scontent.fdac142-1.fna&_nc_gid=r1KoZg0n_fgmd2L5s6WqHg&_nc_ss=7b2a8&oh=00_Af61PURk8kQnssFRXrNek2ilm0ebKL3CD2kwA9RN2gvMYQ&oe=6A13BE54" width="80" alt="Alien Monster" />
+  <img 
+  src="https://scontent.fdac142-1.fna.fbcdn.net/v/t39.30808-6/669150201_947585977985433_1315785192148469991_n.jpg"
+  alt="Profile Image"
+  class="round-img"
+/>
+
+<style>
+.round-img{
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #fff; /* optional */
+}
+</style>
   <h1>⚡ MD FAYSAL HOSSAIN ⚡</h1>
   <p><b>FULL-STACK MERN ENGINEER // NSDA CERTIFIED INSTRUCTOR</b></p>
 </div>
