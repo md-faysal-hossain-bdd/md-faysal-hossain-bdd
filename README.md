@@ -3,7 +3,7 @@
 <img 
   src="https://media.licdn.com/dms/image/v2/D5622AQGGkdGaxjeiAw/feedshare-image-high-res/B56Z0XC6vTI0AU-/0/1774208134385?e=1781136000&v=beta&t=HqWDd2bACwUNlO_fHSFS6-rLybJJ5T-cKhmuyf21ZwM" 
 width="1200" 
-  height="1200" 
+  height="500" 
   style="border-radius:50%; object-fit:cover;" 
   alt="Profile Image"
 }
