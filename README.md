@@ -1,20 +1,12 @@
 <!-- HEADER SECTION -->
 <div align="center">
-  <img 
-  src="https://scontent.fdac142-1.fna.fbcdn.net/v/t39.30808-6/669150201_947585977985433_1315785192148469991_n.jpg"
+<img 
+  src="https://scontent.fdac142-1.fna.fbcdn.net/v/t39.30808-6/669150201_947585977985433_1315785192148469991_n.jpg" 
+  width="120" 
+  height="120" 
+  style="border-radius:50%; object-fit:cover;" 
   alt="Profile Image"
-  class="round-img"
 />
-
-<style>
-.round-img{
-  width: 120px;
-  height: 120px;
-  border-radius: 50%;
-  object-fit: cover;
-  border: 3px solid #fff; /* optional */
-}
-</style>
   <h1>⚡ MD FAYSAL HOSSAIN ⚡</h1>
   <p><b>FULL-STACK MERN ENGINEER // NSDA CERTIFIED INSTRUCTOR</b></p>
 </div>
