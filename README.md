@@ -1,6 +1,6 @@
 <!-- HEADER SECTION -->
 <div align="center">
-  <img src="https://github.com/md-faysal-hossain-bdd/personal-image" width="80" alt="Alien Monster" />
+  <img src="https://t4.ftcdn.net/jpg/02/18/89/63/360_F_218896346_x8m03Ft3pb1JRMGkdnsAO2LmMd5BXCCL.jpg" width="80" alt="Alien Monster" />
   <h1>⚡ MD FAYSAL HOSSAIN ⚡</h1>
   <p><b>FULL-STACK MERN ENGINEER // NSDA CERTIFIED INSTRUCTOR</b></p>
 </div>
