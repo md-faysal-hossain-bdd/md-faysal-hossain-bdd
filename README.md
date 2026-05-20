@@ -1,7 +1,16 @@
 <!-- HEADER SECTION -->
 <div align="center">
 <img 
-  src="https://media.licdn.com/dms/image/v2/D5622AQGGkdGaxjeiAw/feedshare-image-high-res/B56Z0XC6vTI0AU-/0/1774208134385?e=1781136000&v=beta&t=HqWDd2bACwUNlO_fHSFS6-rLybJJ5T-cKhmuyf21ZwM"
+  src="https://media.licdn.com/dms/image/v2/D5622AQGGkdGaxjeiAw/feedshare-image-high-res/B56Z0XC6vTI0AU-/0/1774208134385?e=1781136000&v=beta&t=HqWDd2bACwUNlO_fHSFS6-rLybJJ5T-cKhmuyf21ZwM" 
+  <style>
+.round-img{
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #fff; /* optional */
+}
+</style>
 />
   <h1>⚡ MD FAYSAL HOSSAIN ⚡</h1>
   <p><b>FULL-STACK MERN ENGINEER // NSDA CERTIFIED INSTRUCTOR</b></p>
