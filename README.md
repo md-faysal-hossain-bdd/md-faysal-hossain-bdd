@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="80" alt="Alien Monster" />
   <h1>⚡ MD FAYSAL HOSSAIN ⚡</h1>
-  <p><b>MASTER ARCHITECT // FULL-STACK MERN ENGINEER // NSDA CERTIFIED INSTRUCTOR</b></p>
+  <p><b>FULL-STACK MERN ENGINEER // NSDA CERTIFIED INSTRUCTOR</b></p>
 </div>
 
 <p align="center">
