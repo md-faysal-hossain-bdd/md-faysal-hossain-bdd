@@ -1,6 +1,6 @@
 <!-- HEADER SECTION -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="80" alt="Alien Monster" />
+  <img src="https://github.com/md-faysal-hossain-bdd" width="80" alt="Alien Monster" />
   <h1>⚡ MD FAYSAL HOSSAIN ⚡</h1>
   <p><b>FULL-STACK MERN ENGINEER // NSDA CERTIFIED INSTRUCTOR</b></p>
 </div>
