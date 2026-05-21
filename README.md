@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Anton&weight=100000&size=28&duration=3000&pause=1000&color=800020&center=true&vCenter=true&width=700&lines=MD+FAYSAL+HOSSAIN;MERN+STACK+DEVELOPER;GOVT+NSDA+CERTIFIED+TRAINER;FULL-STACK+DEVELOPER;SQA+ENGINEER" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=100000&size=28&duration=3000&pause=1000&color=800020&center=true&vCenter=true&width=700&lines=MD+FAYSAL+HOSSAIN;MERN+STACK+DEVELOPER;GOVT+NSDA+CERTIFIED+TRAINER;FULL-STACK+DEVELOPER;SQA+ENGINEER" alt="Typing SVG" />
 </p>
 
 <p align="center">
