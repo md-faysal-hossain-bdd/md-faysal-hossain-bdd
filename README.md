@@ -2,8 +2,8 @@
 <div align="center">
 <img 
   src="[https://scontent.fdac142-1.fna.fbcdn.net/v/t39.30808-6/629739232_897628412981190_3319363253788456202_n.jpg?stp=dst-jpg_tt6&cstp=mx1200x500&ctp=s1241x931&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=-Z5fcx07ogQQ7kNvwGpNLoo&_nc_oc=AdrjltziGY0fnDun7hXixll8VGOKjOm7TlqdWtgoEgQjMVGBAbB9BYHRp2ERUUK9EeI&_nc_zt=23&_nc_ht=scontent.fdac142-1.fna&_nc_gid=tOOT-egeVvASuzRIjlEglA&_nc_ss=7b2a8&oh=00_Af_Ffh6m50Tqh78Wz0Bi3cRa7PxpRaPMfwozKZhmnYo8rQ&oe=6A349746](https://scontent.fdac142-1.fna.fbcdn.net/v/t39.30808-6/629739232_897628412981190_3319363253788456202_n.jpg?stp=dst-jpg_tt6&cstp=mx1241x931&ctp=s1241x931&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=-Z5fcx07ogQQ7kNvwGpNLoo&_nc_oc=AdrjltziGY0fnDun7hXixll8VGOKjOm7TlqdWtgoEgQjMVGBAbB9BYHRp2ERUUK9EeI&_nc_zt=23&_nc_ht=scontent.fdac142-1.fna&_nc_gid=tOOT-egeVvASuzRIjlEglA&_nc_ss=7b2a8&oh=00_Af_Ffh6m50Tqh78Wz0Bi3cRa7PxpRaPMfwozKZhmnYo8rQ&oe=6A349746)"
-  width="250"
-  height="250"
+  width="1000"
+  height="500"
 }
 />
   <h1>⚡ MD FAYSAL HOSSAIN ⚡</h1>
