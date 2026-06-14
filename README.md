@@ -116,10 +116,10 @@
 <div align="center">
   <p><b>LET'S BUILD THE FUTURE TOGETHER</b></p>
 <a href="https://www.linkedin.com/groups/18637071/">
-<img src="https://img.shields.io/badge/-LinkedIn(Group)-0077B5?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/-LinkedIn-Group-0077B5?style=for-the-badge&logo=linkedin" />
 </a>
   <a href="https://www.linkedin.com/in/md-faysal-hossain-bddh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn(Personal)-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Personal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="https://www.youtube.com/@md.faysal.hossain" target="_blank">
