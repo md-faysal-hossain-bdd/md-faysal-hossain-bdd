@@ -116,7 +116,8 @@
 <div align="center">
   <p><b>LET'S BUILD THE FUTURE TOGETHER</b></p>
 <a href="https://www.linkedin.com/groups/18637071/">
-  <img src="https://img.shields.io/badge/LinkedIn%20Group-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="28" height="28" />
+  Developer Community
 </a>
   <a href="https://www.linkedin.com/in/md-faysal-hossain-bddh" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
