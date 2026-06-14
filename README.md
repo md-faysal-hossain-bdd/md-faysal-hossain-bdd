@@ -2,8 +2,8 @@
 <div align="center">
   <img
     src="https://drive.google.com/uc?export=view&id=1mC2AHYZeG276L-Ey14_pyPtgHT_KynHy"
-    width="700"
-    height="500"
+    width="800"
+    height="300"
     alt="MD Faysal Hossain"
   />
   <h1>⚡ MD FAYSAL HOSSAIN ⚡</h1>
