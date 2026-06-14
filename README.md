@@ -115,7 +115,7 @@
 
 <div align="center">
   <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=3000&pause=1000&color=800020&center=true&vCenter=true&width=600&lines=MD+FAYSAL+HOSSAIN;MERN+STACK+DEVELOPER;GOVT+NSDA+CERTIFIED+TRAINER;FULL-STACK+DEVELOPER;+SQA+ENGINEER" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=3000&pause=1000&color=004225&center=true&vCenter=true&width=600&lines=FOLLOW+FACEBOOK;FOLLOW+LinkedIN;FOLLOW+YOUTUBE;FOLLOW+Tweeter;FOLLOW+Instagram;FOLLOW+TELEGRAM+GROUP;FOLLOW+PINTEREST;FOLLOW+TikTok" alt="Typing SVG" />
 </p>
   <p><b>LET'S BUILD THE FUTURE TOGETHER</b></p>
 <a href="https://www.linkedin.com/groups/18637071/">
