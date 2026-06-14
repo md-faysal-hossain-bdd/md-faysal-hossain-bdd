@@ -117,7 +117,6 @@
   <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=3000&pause=1000&color=004225&center=true&vCenter=true&width=600&lines=FOLLOW+FACEBOOK;FOLLOW+LinkedIN;FOLLOW+YOUTUBE;FOLLOW+Tweeter;FOLLOW+Instagram;FOLLOW+TELEGRAM+GROUP;FOLLOW+PINTEREST;FOLLOW+TikTok" alt="Typing SVG" />
 </p>
-  <p><b>LET'S BUILD THE FUTURE TOGETHER</b></p>
 <a href="https://www.linkedin.com/groups/18637071/">
 <img src="https://img.shields.io/badge/LinkedIn-Group-0077B5?style=for-the-badge&logo=linkedin" />
 </a>
