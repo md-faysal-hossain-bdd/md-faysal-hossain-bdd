@@ -2,8 +2,6 @@
 <div align="center">
 <img 
   src="https://www.facebook.com/share/1BruVLsDcZ/"
-  width="1000"
-  height="500"
 }
 />
   <h1>⚡ MD FAYSAL HOSSAIN ⚡</h1>
