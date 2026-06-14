@@ -2,7 +2,7 @@
 <div align="center">
   <img
     src="https://drive.google.com/uc?export=view&id=1mC2AHYZeG276L-Ey14_pyPtgHT_KynHy"
-    width="1000"
+    width="700"
     height="500"
     alt="MD Faysal Hossain"
   />
