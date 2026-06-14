@@ -157,5 +157,5 @@
 
 ---
 <div align="center">
-  <sub><code>[MATRIX INFRASTRUCTURE OPERATIONAL // SECURITY LEVEL: MAX // OPERATING YEAR: 2026]</code></sub>
+  <sub><code>[OPERATING YEAR: 2026]</code></sub>
 </div>
