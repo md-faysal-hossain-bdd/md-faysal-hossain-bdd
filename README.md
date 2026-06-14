@@ -95,7 +95,6 @@
   <!-- Mobile & Instructor -->
   <p>
     <img src="https://img.shields.io/badge/Native%20Android%20Kotlin%20L--4-DIPTI%20MOBILE-3DDC84?style=for-the-badge&labelColor=161B22&logo=android&logoColor=3DDC84" width="48%"/>
-    <img src="https://img.shields.io/badge/NSDA%20Refresher%20ToT-DUET%20CAMPUS-316192?style=for-the-badge&labelColor=161B22&logo=gitbook&logoColor=316192" width="48%"/>
   </p>
 </div>
 
